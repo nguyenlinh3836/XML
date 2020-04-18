@@ -1,0 +1,28 @@
+xsampdoc{
+    display: block;
+    margin: 120px;
+    font-family: Arial;
+}
+greeting{
+    display: block;
+    font-size: 40pt;
+    color: red;
+}
+greeting extension{
+    display: block;
+    font-size: 30pt;
+    color: black;
+}
+[class=ans] extension{
+    display: block;
+    font-size: 19pt;
+    color: blue;
+}
+[class=ans] question{
+    display: block;
+    font-size: 30pt;
+    color: black;
+}
+
+
+
